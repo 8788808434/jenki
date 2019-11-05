@@ -4,7 +4,7 @@ public class Pro
 	{
 		for(int i=0;i<6;i++)
 		{
-			System.out.println("AVINASH");
+			System.out.println("AVINASHpatil");
 		}
 	}
 }
